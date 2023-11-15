@@ -1,1 +1,1 @@
-# vertical stepper project 
+# Vertical stepper with support for three modes
